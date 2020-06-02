@@ -30,7 +30,6 @@
          </dependencies>
 
     <build>
-        <defaultGoal>comple</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
